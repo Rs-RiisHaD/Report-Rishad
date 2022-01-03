@@ -1,1 +1,3 @@
 # Report-Rishad
+
+cd Report 
